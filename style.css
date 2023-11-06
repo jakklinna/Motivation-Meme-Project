@@ -1,0 +1,30 @@
+h1 {
+    font-family: "Libre Baskerville", serif;
+    color: white;
+    text-transform: uppercase;
+}
+
+body {
+    background-color: black;
+    text-align: center;
+}
+
+img { 
+    width: 100%;
+    border: 5px red solid;
+}
+
+div {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 10%;
+}
+
+p {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2rem;
+}
+ 
+
+
